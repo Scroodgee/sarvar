@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: rgb(42, 93, 90);
+}
+.title{
+    width: 636px; 
+    background: rgb(49, 19, 19);
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 64px;
+font-weight: 700;
+line-height: 77px;
+letter-spacing: 0%;
+text-align: center;
+margin: 20px auto;
+padding: 20px 0;
+}
+.ota{
+    box-sizing: border-box;
+border: 10px solid rgb(255, 6, 6);
+background: rgb(0, 0, 0);
+width: 1000px;
+padding: 45px 52px ;
+margin:0 auto;
+}
+.bola{
+    background: rgb(31, 232, 183);
+    padding: 54px 39px;
+    margin: 20px 0 auto;
+}
